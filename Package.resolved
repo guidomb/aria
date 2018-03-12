@@ -1,0 +1,223 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Algebra",
+        "repositoryURL": "https://github.com/typelift/Algebra.git",
+        "state": {
+          "branch": null,
+          "revision": "e81a20aa543dd0847897b57073a3f939c2124375",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "CCurl",
+        "repositoryURL": "https://github.com/IBM-Swift/CCurl.git",
+        "state": {
+          "branch": null,
+          "revision": "2a431e3a5fb8d004aa7d4d1bebb5d511f568c43e",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "CommonCrypto",
+        "repositoryURL": "https://github.com/IBM-Swift/CommonCrypto.git",
+        "state": {
+          "branch": null,
+          "revision": "9156d238dbc4c15455b77b45e721b2bb0b995e31",
+          "version": "0.1.5"
+        }
+      },
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "f2ca9c377d4b44596a131e37eeb908221fb6e6be",
+          "version": "0.8.3"
+        }
+      },
+      {
+        "package": "Cryptor",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueCryptor.git",
+        "state": {
+          "branch": null,
+          "revision": "1de800d80f22a930e617f7c551a692475f92a23d",
+          "version": "0.8.22"
+        }
+      },
+      {
+        "package": "Curry",
+        "repositoryURL": "https://github.com/thoughtbot/Curry.git",
+        "state": {
+          "branch": null,
+          "revision": "ab3fa14ec2ca2246831acf62d5d6051bf19e2a28",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "DoctorPretty",
+        "repositoryURL": "https://github.com/bkase/DoctorPretty.git",
+        "state": {
+          "branch": null,
+          "revision": "7e1b0fea76e8e81d5e08ccd603d6bbcbdad9931c",
+          "version": "0.4.1"
+        }
+      },
+      {
+        "package": "FileCheck",
+        "repositoryURL": "https://github.com/trill-lang/FileCheck.git",
+        "state": {
+          "branch": null,
+          "revision": "34ea75a35780396a2cfa5019ec799879b48dd960",
+          "version": "0.0.6"
+        }
+      },
+      {
+        "package": "Kitura",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura",
+        "state": {
+          "branch": null,
+          "revision": "3d42897fa83537b97592512a7a85af61e9ce53ea",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "Kitura-TemplateEngine",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-TemplateEngine.git",
+        "state": {
+          "branch": null,
+          "revision": "d432d61cd9dfb66bc9741fec44434bbbcad676cd",
+          "version": "1.7.3"
+        }
+      },
+      {
+        "package": "Kitura-net",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-net.git",
+        "state": {
+          "branch": null,
+          "revision": "9b4221e7378f76e0c5e04acaf30cdee99594aed3",
+          "version": "2.0.4"
+        }
+      },
+      {
+        "package": "KituraContracts",
+        "repositoryURL": "https://github.com/IBM-Swift/KituraContracts.git",
+        "state": {
+          "branch": null,
+          "revision": "8821f72962c369f4941bcd006437f966972ed53d",
+          "version": "0.0.20"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "ee0084cbb8bace59b3409cec05bedc5d2e97f8b7",
+          "version": "1.7.2"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble",
+        "state": {
+          "branch": null,
+          "revision": "22800b0954c89344bb8c87f8ab93378076716fb7",
+          "version": "7.0.3"
+        }
+      },
+      {
+        "package": "Operadics",
+        "repositoryURL": "https://github.com/typelift/Operadics.git",
+        "state": {
+          "branch": null,
+          "revision": "c2a14919b3653a39a9bf268c1ae0bf71ad6833fe",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "Prelude",
+        "repositoryURL": "https://github.com/pointfreeco/swift-prelude.git",
+        "state": {
+          "branch": "45bb2cc",
+          "revision": "45bb2cc25ee7c79ecc23b56465b058f4f462158f",
+          "version": null
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/Quick/Quick",
+        "state": {
+          "branch": null,
+          "revision": "0ff81f2c665b4381f526bd656f8708dd52a9ea2f",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "Runes",
+        "repositoryURL": "https://github.com/thoughtbot/Runes.git",
+        "state": {
+          "branch": null,
+          "revision": "e1bb1f7a589fe9172dc3410203f8b62373ea92a4",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "SSLService",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSSLService.git",
+        "state": {
+          "branch": null,
+          "revision": "3a87b64a97fb8e923f52f2a68e31e7bd4fc46b42",
+          "version": "0.12.84"
+        }
+      },
+      {
+        "package": "SnapshotTesting",
+        "repositoryURL": "https://github.com/pointfreeco/swift-snapshot-testing.git",
+        "state": {
+          "branch": "c510e7d",
+          "revision": "c510e7d14831ade9b786428a732b06ac2ee71de1",
+          "version": null
+        }
+      },
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "26c8f4e4e3000421a0c97aaf0c7b5e9aa5475222",
+          "version": "0.12.94"
+        }
+      },
+      {
+        "package": "SwiftCheck",
+        "repositoryURL": "https://github.com/typelift/SwiftCheck.git",
+        "state": {
+          "branch": null,
+          "revision": "df82fb889864945c64458f38846702af729b3ee4",
+          "version": "0.9.1"
+        }
+      },
+      {
+        "package": "Swiftx",
+        "repositoryURL": "https://github.com/typelift/Swiftx.git",
+        "state": {
+          "branch": null,
+          "revision": "140f1510ecb8597970c58c5a41a32bda72310d31",
+          "version": "0.6.0"
+        }
+      },
+      {
+        "package": "Web",
+        "repositoryURL": "https://github.com/pointfreeco/swift-web.git",
+        "state": {
+          "branch": "master",
+          "revision": "37c7d8ec1094c308615b0f750cd09747854900c7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
